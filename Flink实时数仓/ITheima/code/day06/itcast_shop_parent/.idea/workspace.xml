@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f226d29-f90a-4688-adeb-3a46035205ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Scala Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZPqPQUxmRAu3l6i5v3FOImxjw5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\博学谷\实时数仓\千亿级数仓第01天\2.代码\itcast_shop_parent\itcast_shop_common\src\main\java\cn\itcast\canal\util\ip" />
+      <recent name="D:\博学谷\实时数仓\千亿级数仓第01天\2.代码\itcast_shop_parent\data" />
+      <recent name="D:\博学谷\实时数仓\千亿级数仓第01天\2.代码\itcast_shop_parent\itcast_shop_realtime_etl\src\main\scala\cn\itcast\shop\realtime\etl\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SpringkafkaproducerApplication">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.shop.realtime.etl.app.App" />
+      <module name="itcast_shop_realtime_etl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.shop.realtime.etl.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DruidJDBCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.druid.DruidJDBCDemo" />
+      <module name="itcast_shop_druid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.druid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Entrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.canal_client.Entrance" />
+      <module name="itcast_shop_canal_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.canal_client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringkafkaproducerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itheima.data_simulator.SpringkafkaproducerApplication" />
+      <module name="itcast_shop_data_simulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itheima.data_simulator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Entrance.sendOrderData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itcast_shop_data_simulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itheima.data_simulator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itheima.data_simulator" />
+      <option name="MAIN_CLASS_NAME" value="cn.itheima.data_simulator.Entrance" />
+      <option name="METHOD_NAME" value="sendOrderData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringkafkaproducerApplication" />
+        <item itemvalue="Application.Entrance" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.Entrance.sendOrderData" />
+        <item itemvalue="Application.DruidJDBCDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f226d29-f90a-4688-adeb-3a46035205ee" name="Default Changelist" comment="" />
+      <created>1584751051625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584751051625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="101" key="#Auto_Import" timestamp="1584791635607">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="452" y="101" key="#Auto_Import/0.0.1920.1050@0.0.1920.1050" timestamp="1584791635607" />
+    <state x="452" y="101" key="#Project_Structure" timestamp="1584878950033">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="452" y="101" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1584878950033" />
+    <state x="690" y="273" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584847685724">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="273" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584847685724" />
+    <state x="666" y="425" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1584879648038">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="666" y="425" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584879648038" />
+    <state x="721" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1584852606703">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="721" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1584852606703" />
+    <state x="632" y="143" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584759890752">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="632" y="143" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584759890752" />
+    <state x="690" y="206" key="FileChooserDialogImpl" timestamp="1584878941117">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="206" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1584878941117" />
+    <state width="1867" height="441" key="GridCell.Tab.0.bottom" timestamp="1584881736547">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="441" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1584881736547" />
+    <state width="1867" height="441" key="GridCell.Tab.0.center" timestamp="1584881736538">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="441" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1584881736538" />
+    <state width="1867" height="441" key="GridCell.Tab.0.left" timestamp="1584881736524">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="441" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1584881736524" />
+    <state width="1867" height="441" key="GridCell.Tab.0.right" timestamp="1584881736538">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="441" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1584881736538" />
+    <state x="532" y="156" key="NewModule_or_Project.wizard" timestamp="1584878943421">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="532" y="156" key="NewModule_or_Project.wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1584878943421" />
+    <state x="345" y="83" key="SettingsEditor" timestamp="1584779195675">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="345" y="83" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1584779195675" />
+    <state x="574" y="198" width="771" height="654" key="find.popup" timestamp="1584880020817">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="574" y="198" width="771" height="654" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1584880020817" />
+    <state x="161" y="153" key="new project wizard" timestamp="1584873853783">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="161" y="153" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1584873853783" />
+    <state x="532" y="0" width="840" height="1032" key="search.everywhere.popup" timestamp="1584874198751">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="532" y="0" width="840" height="1032" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1584874198751" />
+  </component>
+</project>

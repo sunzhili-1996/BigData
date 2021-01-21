@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itcast_dw_web" />
+        <module name="itcast_shop_common" />
+        <module name="itcast_shop_realtime_etl" />
+        <module name="itcast_shop_druid" />
+        <module name="itcast_shop_data_simulator" />
+        <module name="itcast_shop_phoenix" />
+        <module name="itcast_shop_canal_client" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="itcast_shop_data_simulator" options="-parameters" />
+    </option>
+  </component>
+</project>

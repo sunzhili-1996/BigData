@@ -1,0 +1,258 @@
+body {
+  font-family: 'Microsoft YaHei', Arial, Helvetica, "sans-serif";
+  background-image: url(../images/bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h2,
+h3,
+h4,
+h5,
+ul {
+  padding: 0;
+  margin: 0;
+  font-weight: normal;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.viewport {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+.header {
+  height: 5rem;
+  line-height: 1;
+  position: relative;
+}
+.header .logo {
+  display: block;
+  font-size: 1.125rem;
+  color: #c4f7ff;
+  position: absolute;
+  left: 3rem;
+  top: 1rem;
+}
+.header h2 {
+  font-size: 1.333rem;
+  color: #c4f7ff;
+  transform: translate(-50%);
+  position: absolute;
+  left: 50%;
+  top: 1rem;
+}
+.header .title {
+  display: block;
+  font-size: 1rem;
+  color: #c4f7ff;
+  transform: translate(-50%);
+  position: absolute;
+  left: 50%;
+  bottom: 0.375rem;
+}
+.body {
+  display: flex;
+  padding: 0.625rem 0.833rem 0;
+}
+.body .column {
+  flex: 2;
+}
+.body .column:nth-child(2) {
+  flex: 3;
+  margin: 0 0.625rem;
+}
+.body .panel {
+  display: flex;
+  flex-direction: column;
+  height: 13.5rem;
+  background-image: url(../images/border-1.png);
+  background-size: 100% 100%;
+  margin-bottom: 1rem;
+}
+.body .panel h3 {
+  height: 1.25rem;
+  text-align: center;
+  font-size: 0.875rem;
+  color: #21fcff;
+}
+.body .panel .chart {
+  flex: 1;
+}
+.body .channel .chart {
+  padding-top: 0.5rem;
+}
+.body .rate {
+  position: relative;
+}
+.body .rate .data {
+  position: absolute;
+  top: 2.45rem;
+  bottom: 1.9rem;
+  right: 2.25rem;
+  width: 4.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.body .rate .item {
+  display: flex;
+  width: 100%;
+  padding: 5px 6px;
+  font-size: 0.75rem;
+  justify-content: flex-end;
+  align-self: center;
+  color: #14e5ff;
+  background-image: linear-gradient(to left, rgba(14, 109, 204, 0.5) 0%, rgba(14, 109, 204, 0.3) 30%, transparent 60%);
+}
+.body .order {
+  display: flex;
+  flex-direction: column;
+  height: 20rem;
+  padding: 1.7rem 2.25rem 1rem;
+  background-image: url(../images/border-2.png);
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  position: relative;
+}
+.body .order .caption {
+  line-height: 1;
+  overflow: hidden;
+  color: #31ecf0;
+}
+.body .order .caption span {
+  display: block;
+  float: left;
+  font-size: 0.75rem;
+}
+.body .order .caption strong {
+  font-size: 1rem;
+  font-weight: normal;
+}
+.body .order .chart {
+  flex: 1;
+}
+.body .order .extra {
+  position: absolute;
+  z-index: -1;
+  right: 2.25rem;
+  top: 2.7rem;
+  bottom: 1rem;
+  width: 25px;
+  text-align: center;
+  font-size: 0.75rem;
+  color: #fff;
+}
+.body .order .extra span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: block;
+  margin-top: -70px;
+  transform: translate(-50%, -50%);
+}
+.body .order .extra span:first-child {
+  margin-top: -66px;
+}
+.body .order .extra span:last-child {
+  margin-top: 68px;
+}
+.body .sales {
+  height: 18.5rem;
+  background-image: url(../images/border-3.png);
+  background-size: 100% 100%;
+  margin-top: 4rem;
+  padding: 5.5rem 1.5rem 0;
+  box-sizing: border-box;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.body .sales h3 {
+  font-size: 0.875rem;
+  color: #00eaff;
+}
+.body .sales .data {
+  width: 100%;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: -2.75rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.body .sales .item {
+  display: flex;
+  justify-content: center;
+  height: 2rem;
+  text-align: center;
+  line-height: 2rem;
+  color: #00e4ff;
+}
+.body .sales .item h5 {
+  width: 7rem;
+  font-size: 0.875rem;
+  margin-right: 5px;
+  background-image: url(../images/shape.png);
+  background-size: 100% 100%;
+}
+.body .sales .item span {
+  display: block;
+  width: 2rem;
+  padding-top: 1px;
+  margin: 0 3px;
+  font-size: 1.5rem;
+  box-sizing: border-box;
+  background-image: url(../images/rect.png);
+  background-size: 100% 100%;
+}
+.body .sales .item span:last-child {
+  background-image: none;
+  font-size: 1.25rem;
+}
+.body .sales .chart {
+  flex: 1;
+}
+.body .status {
+  position: relative;
+}
+.body .status .extra {
+  width: 0;
+  height: 0;
+  padding: 12.5%;
+  background-image: linear-gradient(to top, rgba(128, 128, 128, 0), rgba(128, 128, 128, 0.4));
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+.body .status .extra:after {
+  content: attr(data-text);
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1rem;
+  color: #fff;
+}
+.body .completed .chart {
+  padding-top: 0.5rem;
+}
+.body .trend {
+  position: relative;
+}
+.body .trend .chart {
+  padding-top: 0.5rem;
+}
+.body .trend .extra {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  color: #fff;
+  font-size: 0.75rem;
+}

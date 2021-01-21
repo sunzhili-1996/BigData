@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3af05a68-dafd-458a-8526-efb72837973d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZO3vBU0bEdcLMAogmL3fuOO3jv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="E:/授课/北京黑马云计算大数据就业35期/千亿级数仓/千亿级数仓第01天/2.代码/canal_client_demo" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.CanalClientDemo2">
+    <configuration name="CanalClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.canal_demo.CanalClientDemo" />
+      <module name="canal_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.canal_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanalClientDemo2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.canal_demo.CanalClientDemo" />
+      <module name="canal_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.canal_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProtobufDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.canal_demo.ProtobufDemo" />
+      <module name="canal_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.canal_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="canal_demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.canal_demo" />
+      <module name="canal_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CanalClientDemo2" />
+      <item itemvalue="Application.canal_demo" />
+      <item itemvalue="Application.CanalClientDemo" />
+      <item itemvalue="Application.ProtobufDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CanalClientDemo" />
+        <item itemvalue="Application.ProtobufDemo" />
+        <item itemvalue="Application.canal_demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3af05a68-dafd-458a-8526-efb72837973d" name="Default Changelist" comment="" />
+      <created>1584696540450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584696540450</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584750674379">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584750674379" />
+    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1584699984215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584699984215" />
+    <state width="1867" height="778" key="GridCell.Tab.0.bottom" timestamp="1584751053096">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="367" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584701991845" />
+    <state width="1867" height="778" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1584751053096" />
+    <state width="1867" height="778" key="GridCell.Tab.0.center" timestamp="1584751053096">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="367" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584701991845" />
+    <state width="1867" height="778" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1584751053096" />
+    <state width="1867" height="778" key="GridCell.Tab.0.left" timestamp="1584751053096">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="367" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584701991844" />
+    <state width="1867" height="778" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1584751053096" />
+    <state width="1867" height="778" key="GridCell.Tab.0.right" timestamp="1584751053096">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="367" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584701991845" />
+    <state width="1867" height="778" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1584751053096" />
+    <state x="345" y="78" key="SettingsEditor" timestamp="1584699999081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584699999081" />
+    <state x="161" y="168" key="new project wizard" timestamp="1584751051524">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="161" y="168" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1584751051524" />
+  </component>
+</project>
